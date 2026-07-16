@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Idly",
+    "price": "$30",
+    "image": "images/img1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Podi Idly",
+    "price": "$50",
+    "image": "images/img2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Thattu Idly",
+    "price": "$60",
+    "image": "images/img3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Kal Dosa",
+    "price": "$45",
+    "image": "images/img4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Masala Dosa",
+    "price": "$60",
+    "image": "images/img5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Non-Veg Rice",
+    "price": "$30",
+    "image": "images/img6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Veg Rice",
+    "price": "$50",
+    "image": "images/img7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Kal Dosa",
+    "price": "$60",
+    "image": "images/img8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Chapati",
+    "price": "$45",
+    "image": "images/img9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Naan",
+    "price": "$60",
+    "image": "images/img10.jpg"
+  },
+    {
+    "id": 11,
+    "title": "Rotti",
+    "price": "$30",
+    "image": "images/img11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Naan-paneer",
+    "price": "$50",
+    "image": "images/img12.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Thaali",
+    "price": "$60",
+    "image": "images/img13.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Cheera Rice",
+    "price": "$45",
+    "image": "images/img14.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Tomato Rice",
+    "price": "$60",
+    "image": "images/img15.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Pongal",
+    "price": "$30",
+    "image": "images/img16.jpg"
+  }
+]
