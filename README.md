@@ -26,5 +26,3 @@ https://sankari-d27.github.io/Shopping-Cart/
 - JSON
 - Font Awesome Icons
 - Google Fonts
-
-## 📁 Project Structure
